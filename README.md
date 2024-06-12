@@ -26,11 +26,8 @@
   <h2>Contributing</h2>
   <p>Contributions are welcome! Feel free to open an issue or submit a pull request to suggest features, report bugs, or improve the codebase.</p>
 
-  <h2>License</h2>
-  <p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for details.</p>
-
   <h2>Acknowledgements</h2>
   <ul>
     <li><strong>News API:</strong> Thanks to News API for providing access to a wealth of news data.</li>
-    <li><strong>Icons:</strong> Icons used in the project are sourced from FontAwesome.</li>
+    <li><strong>Icons:</strong> Fonts use in this project are from Google Fonts.</li>
   </ul>
