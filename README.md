@@ -1,26 +1,36 @@
-News API Application
+ <h1>News API Application</h1>
 
-Overview
-This News API Application serves as a platform for users to access and explore the latest news articles conveniently. Built using HTML, CSS, and JavaScript, this project leverages the News API to fetch real-time news data from various sources and categories.
+  <h2>Overview</h2>
+  <p>This News API Application serves as a platform for users to access and explore the latest news articles conveniently. Built using HTML, CSS, and JavaScript, this project leverages the News API to fetch real-time news data from various sources and categories.</p>
 
-Features
-Real-time Updates: Utilizes the News API to fetch the latest news articles dynamically.
-Customizable Filters: Allows users to personalize their news feed by selecting specific categories or sources.
-Responsive Design: Ensures optimal user experience across devices with a responsive web design approach.
-Tech Stack
-Frontend: HTML, CSS, JavaScript
-API: News API
-Usage
-To run the application locally:
+  <h2>Features</h2>
+  <ul>
+    <li><strong>Real-time Updates:</strong> Utilizes the News API to fetch the latest news articles dynamically.</li>
+    <li><strong>Customizable Filters:</strong> Allows users to personalize their news feed by selecting specific categories or sources.</li>
+    <li><strong>Responsive Design:</strong> Ensures optimal user experience across devices with a responsive web design approach.</li>
+  </ul>
 
-Clone this repository.
-Open index.html in your web browser.
-Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request to suggest features, report bugs, or improve the codebase.
+  <h2>Tech Stack</h2>
+  <ul>
+    <li><strong>Frontend:</strong> HTML, CSS, JavaScript</li>
+    <li><strong>API:</strong> News API</li>
+  </ul>
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+  <h2>Usage</h2>
+  <p>To run the application locally:</p>
+  <ol>
+    <li>Clone this repository.</li>
+    <li>Open <code>index.html</code> in your web browser.</li>
+  </ol>
 
-Acknowledgements
-News API: Thanks to News API for providing access to a wealth of news data.
-Icons: Icons used in the project are sourced from FontAwesome.
+  <h2>Contributing</h2>
+  <p>Contributions are welcome! Feel free to open an issue or submit a pull request to suggest features, report bugs, or improve the codebase.</p>
+
+  <h2>License</h2>
+  <p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for details.</p>
+
+  <h2>Acknowledgements</h2>
+  <ul>
+    <li><strong>News API:</strong> Thanks to News API for providing access to a wealth of news data.</li>
+    <li><strong>Icons:</strong> Icons used in the project are sourced from FontAwesome.</li>
+  </ul>
