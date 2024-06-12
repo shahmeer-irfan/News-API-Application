@@ -29,5 +29,5 @@
   <h2>Acknowledgements</h2>
   <ul>
     <li><strong>News API:</strong> Thanks to News API for providing access to a wealth of news data.</li>
-    <li><strong>Icons:</strong> Fonts use in this project are from Google Fonts.</li>
+    <li><strong>Icons:</strong> Fonts used in this project are from Google Fonts.</li>
   </ul>
